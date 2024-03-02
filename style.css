@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    display: flex;
+}
+img{
+    background-size: contain;
+    height: 100%;
+    width: 100%;
+
+}
+h1{
+    height: 20px;
+    position: absolute;
+    width: 20px;
+    color: white;
+}
